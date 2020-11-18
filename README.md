@@ -1,16 +1,15 @@
-### Hi there 👋
+### I'm Ty 👋
 
-<!--
-**tydangelo18/tydangelo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Full Stack Web Developer, Accountant, and Bowler. 
+⚡ Please check out my [portfolio](tydangelo18.github.io/react-portfolio/).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on transitioning into a career in Full Stack Web Development. 
+- 🌱 I’m currently learning Redux & React Native.
+- 👯 I’m looking to collaborate on anything that involves the MERN stack. 
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+
+
+
