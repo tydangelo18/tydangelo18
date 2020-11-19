@@ -1,7 +1,7 @@
 ## console.log('I'm Tyler! 👋');
 
 ### Full Stack Web Developer
-:floppy_disk: Please check out my [**portfolio**](tydangelo18.github.io/react-portfolio/).
+:floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/).
 
 - :running: I'm transitioning into a career in Full Stack Web Development. 
 - :notebook: I’m currently learning Redux & React Native.
