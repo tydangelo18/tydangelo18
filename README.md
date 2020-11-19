@@ -1,4 +1,4 @@
-## console.log('**I'm Tyler** 👋');
+## console.log('I'm Tyler! 👋');
 
 ### Full Stack Web Developer
 :floppy_disk: Please check out my [**portfolio**](tydangelo18.github.io/react-portfolio/).
@@ -7,6 +7,13 @@
 - :notebook: I’m currently learning Redux & React Native.
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :person_with_blond_hair: Pronouns: He/Him
+
+<br />
+
+### Let's Connect!
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -22,10 +29,8 @@
 
 </details>
 
-<br />
 
-### Let's Connect!
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+
 
 
 
