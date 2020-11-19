@@ -8,8 +8,6 @@
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :person_with_blond_hair: Pronouns: He/Him
 
-<br />
-
 ### Let's Connect!
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
 
