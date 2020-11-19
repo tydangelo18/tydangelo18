@@ -1,15 +1,29 @@
-### I'm Ty 👋
+## console.log('**I'm Tyler** 👋');
 
-## I am a Full Stack Web Developer, Accountant, and Bowler. 
-⚡ Please check out my [portfolio](tydangelo18.github.io/react-portfolio/).
+### Full Stack Web Developer
+:floppy_disk: Please check out my [**portfolio**](tydangelo18.github.io/react-portfolio/).
 
-- 🔭 I’m currently working on transitioning into a career in Full Stack Web Development. 
-- 🌱 I’m currently learning Redux & React Native.
-- 👯 I’m looking to collaborate on anything that involves the MERN stack. 
-- 😄 Pronouns: He/Him
+- :running: I'm transitioning into a career in Full Stack Web Development. 
+- :notebook: I’m currently learning Redux & React Native.
+- :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
+- :person_with_blond_hair: Pronouns: He/Him
 
-## Let's Connect!
+### Let's Connect!
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Tyler's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydangelo18" />
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Tyler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tydangelo18&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
