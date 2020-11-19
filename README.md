@@ -8,9 +8,6 @@
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :person_with_blond_hair: Pronouns: He/Him
 
-### Let's Connect!
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
@@ -24,6 +21,11 @@
   <img align="left" alt="Tyler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tydangelo18&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
+
+### Let's Connect!
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
 
 
 
