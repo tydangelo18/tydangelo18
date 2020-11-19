@@ -6,7 +6,7 @@
 - :running: I'm transitioning into a career in Full Stack Web Development. 
 - :notebook: I’m currently learning Redux & React Native.
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
-- :mens: Pronouns: He/Him
+- :id: Pronouns: He/Him
 
 ### Let's Connect!
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
