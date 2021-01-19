@@ -9,10 +9,11 @@
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :id: Pronouns: He/Him
 
-### Let's Connect!
-- [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
-
+### Contact
 - :e-mail: tydangelo18@gmail.com
+- [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" backgroundColor="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+
+
 
 <br />
 <br />
