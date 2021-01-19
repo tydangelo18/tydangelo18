@@ -1,8 +1,7 @@
 ## console.log('I'm Tyler! 👋');
 
 ### Full Stack Web Developer
-:floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/).
-:e-mail: tydangelo18@gmail.com | Contact me for freelance work. 
+:floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/). 
 
 - :running: I'm transitioning into a career in Full Stack Web Development. 
 - :computer: I'm a Freelance Web Designer. 
@@ -11,6 +10,7 @@
 - :id: Pronouns: He/Him
 
 ### Contact
+:e-mail: tydangelo18@gmail.com | Contact me for freelance work.
 
 
 
