@@ -30,7 +30,6 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 - 😄 Pronouns: He/Him 
 
 <br />
-<br />
 
 
 <details>
@@ -48,14 +47,13 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 </details>
 
 <br />
-<br />
 
 
 <a href="https://twitter.com/tydangelo18">
   <img align="left" alt="Ty D'Angelo | Twitter" width="30px" src="https://raw.githubusercontent.com/tydangelo18/tydangelo18/master/Twitter.svg"/>
 </a>
 
-<a href="www.linkedin.com/in/tydangelo18">
+<a href="https://www.linkedin.com/in/tydangelo18/">
   <img align="left" alt="Ty D'Angelo | LinkedIn" width="30px" src="https://raw.githubusercontent.com/tydangelo18/tydangelo18/master/Linkedin.png"/>
 </a>
 
