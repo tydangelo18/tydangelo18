@@ -25,7 +25,7 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 - 🔭 I’m currently working on transitioning into a career in Full Stack Web Development.  
 - 🌱 I’m currently learning Redux, React Native, & Sass. 
 - 👯 I’m looking to collaborate on anything that involves the MERN stack or Blockchain technologies.  
-- :e-mail: tydangelo18@gmail.com | Reach out if you need Freelance Web Design work 
+- :e-mail: tydangelo18@gmail.com | Reach out if you need Freelance Web Design work.
 - 😄 Pronouns: He/Him 
 
 <br />
