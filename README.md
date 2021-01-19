@@ -1,11 +1,14 @@
-## console.log("Hi there 👋, I'm Ty D'Angelo");
+# console.log("Hi there 👋, I'm Ty D'Angelo");
  
-#### Full Stack Web Developer
-![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGTMAyGhq-cgg/profile-displaybackgroundimage-shrink_200_800/0/1604959979436?e=1616630400&v=beta&t=tyFXcn_hY2iI44v7Ububq9MWwmvQVeddEnQf2fXEVHY)
-
 I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React, MongoDB, and UI/UX Design. I have a background in accounting, and I enjoy learning new technologies & bowling in my free time. 
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/).
+
+## Skills and Experience
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 Skills: REACT / JS / HTML / CSS / MongoDB
 
