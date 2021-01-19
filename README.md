@@ -4,6 +4,7 @@
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/).
 
 - :running: I'm transitioning into a career in Full Stack Web Development. 
+- :computer: I'm a Freelance Web Designer. 
 - :notebook: I’m currently learning Redux, React Native, & Sass.
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :id: Pronouns: He/Him
