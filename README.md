@@ -20,7 +20,7 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 
 <br />
 <br />
----
+
 
 - 🔭 I’m currently working on transitioning into a career in Full Stack Web Development.  
 - 🌱 I’m currently learning Redux, React Native, & Sass. 
@@ -30,7 +30,7 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 
 <br />
 <br />
----
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -46,6 +46,8 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 
 </details>
 
+<br />
+<br />
 
 
 <a href="https://twitter.com/tydangelo18">
