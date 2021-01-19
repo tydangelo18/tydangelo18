@@ -10,7 +10,7 @@
 - :id: Pronouns: He/Him
 
 ### Let's Connect!
-[<img align="left" color="white" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
+- [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
 
 - :e-mail: tydangelo18@gmail.com
 
