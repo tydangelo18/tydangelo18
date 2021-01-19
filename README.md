@@ -1,4 +1,4 @@
-## console.log('I'm Tyler! 👋');
+## console.log('I'm Ty! 👋');
 
 ### Full Stack Web Developer
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/). 
@@ -9,7 +9,7 @@
 - :thought_balloon: I’m looking to collaborate on anything that involves the MERN stack. 
 - :id: Pronouns: He/Him
 
-### Contact
+###
 :e-mail: tydangelo18@gmail.com | Contact me for freelance work.
 
 
