@@ -2,6 +2,7 @@
 
 ### Full Stack Web Developer
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo18.github.io/react-portfolio/#/).
+:e-mail: tydangelo18@gmail.com | Contact me for freelance work. 
 
 - :running: I'm transitioning into a career in Full Stack Web Development. 
 - :computer: I'm a Freelance Web Designer. 
@@ -10,8 +11,6 @@
 - :id: Pronouns: He/Him
 
 ### Contact
-- :e-mail: tydangelo18@gmail.com
-- [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" backgroundColor="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tydangelo18/)
 
 
 
