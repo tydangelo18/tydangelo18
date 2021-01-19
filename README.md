@@ -12,7 +12,6 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
@@ -24,6 +23,20 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 - 👯 I’m looking to collaborate on anything that involves the MERN stack or Blockchain technologies.  
 - 💬 Ask me about Freelance Web Design Opportunities. 
 - 😄 Pronouns: He/Him 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tydangelo18&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydangelo18" />
+
+</details>
 
 
 
