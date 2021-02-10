@@ -1,4 +1,4 @@
-# console.log("Hi there 👋, I'm Ty D'Angelo");
+# Hi there 👋, I'm Ty D'Angelo
  
 I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React, MongoDB, and UI/UX Design. I have a background in accounting, and I enjoy learning new technologies & bowling in my free time. 
 
