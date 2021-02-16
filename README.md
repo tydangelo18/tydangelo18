@@ -24,10 +24,9 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 
 
 - 🔭 I’m currently working on transitioning into a career in Full Stack Web Development.  
-- 🌱 I’m currently learning Redux, React Native, & Sass. 
-- 👯 I’m looking to collaborate on anything that involves the MERN stack or Blockchain technologies.  
-- :e-mail: tydangelo18@gmail.com | I do Freelance Web Design.
-- 😄 Pronouns: He/Him 
+- 🌱 I’m currently learning Redux & Sass. 
+- 👯 I’m looking to collaborate on anything that involves the MERN stack or Blockchain technology.  
+- :e-mail: tydangelo18@gmail.com | Let's get in touch! 
 
 <br />
 
@@ -42,7 +41,7 @@ I am a Full Stack Web Developer from Austin, TX, and I enjoy working with React,
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydangelo18" />
+<img align="left" alt="Ty's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydangelo18" />
 
 </details>
 
