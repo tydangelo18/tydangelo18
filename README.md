@@ -25,7 +25,7 @@ I am a Full Stack Developer from Austin, TX. I enjoy working with React, MongoDB
 
 
 - 🔭 I’m currently working on a collaborative project that offers a user-friendly documenting and messaging software for behavioral residential care facilities.  
-- 🌱 I’m currently learning React Native. 
+- 🌱 I’m currently learning Python. 
 - 👯 I’m looking to contribute to anything that involves the MERN stack, analytics, or Blockchain technology. 
 - :e-mail: tydangelo18@gmail.com | Let's get in touch! 
 
