@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-I am a Full Stack Developer from Austin, TX. I enjoy working with React, MongoDB, and UI/UX Design. I have a background in accounting, and I enjoy learning new technologies & bowling in my free time. 
+I am a Full Stack Developer from Austin, TX. I enjoy working with React, Solidity, and UI/UX Design. I have a background in accounting, and I enjoy learning new technologies & collaborating with other Developers. 
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
