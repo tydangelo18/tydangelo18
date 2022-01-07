@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-I am a Full Stack Developer from Austin, TX. I enjoy working with React, Solidity, and UI/UX Design. I have a background in accounting, and I enjoy learning new technologies & collaborating with other Developers. 
+I am a Full Stack Developer in Austin, TX. During my free time I work on side projects with various teams as a Web Developer to utilize my skills in Javascript, React, Node.js, HTML, CSS, and UI/UX Design. I am currently breaking into Blockchain Development by learning Blockchain, Ethereum, and Smart Contract Fundamentals, as well as Solidity, Remix, and Hardhat.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
