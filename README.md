@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-I am a Full Stack Developer in Austin, TX. During my free time I work on side projects with various teams as a Web Developer to utilize my skills in Javascript, React, Node.js, HTML, CSS, and UI/UX Design. I am currently breaking into Blockchain Development by learning Blockchain, Ethereum, and Smart Contract Fundamentals, as well as Solidity, Remix, and Hardhat.
+I am a Full Stack Developer in Austin, TX. During my free time I work on side projects with various teams as a Web Developer to utilize my skills in Javascript, React, Node.js, HTML, CSS, and UI/UX Design. I am currently looking to break into the open-source community. 
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
@@ -25,8 +25,8 @@ I am a Full Stack Developer in Austin, TX. During my free time I work on side pr
 
 
 - 🔭 I’m currently working on a collaborative project that offers a user-friendly documenting and messaging software for behavioral residential care facilities.  
-- 🌱 I’m currently learning Solidity and Smart Contract Development. 
-- 👯 I’m looking to contribute to anything that involves Smart Contracts, Blockchain, or Analytics. 
+- 🌱 I’m currently learning GraphQL and Typescript.
+- 👯 I’m looking to contribute to anything that involves Data Analytics and Smart Contracts. 
 - :e-mail: tydangelo18@gmail.com | Let's get in touch! 
 
 <br />
