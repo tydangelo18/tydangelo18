@@ -24,7 +24,7 @@ I am a Full Stack Developer in Austin, TX. During my free time I enjoy working o
 <hr />
 
 
-- 🔭 I’m currently contributing to an open-source project that offers a user-friendly documenting and messaging software for behavioral residential care facilities.
+- 🔭 I’m currently contributing to an open-source project that offers a user-friendly documenting and messaging software for behavioral residential care facilities |       https://ecare-residential.com/
 - 🌱 I’m currently learning GraphQL and Typescript.
 - 👯 I’m looking to contribute to anything that involves Data Analytics, Social Media, Fintech, or Adtech.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
