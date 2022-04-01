@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-I am a Software Developer in Austin, TX with skills in Javascript, React, Redux, Node.js, MongoDB, and UI/UX Design.
+Software Developer in Austin, TX.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
