@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-I am a Full Stack Developer in Austin, TX. During my free time I enjoy working on side projects to utilize my skills in Javascript, React, Node.js, HTML, CSS, and UI/UX Design. I am currently breaking into the open-source community.
+I am a Software Developer in Austin, TX with skills in Javascript, React, Redux, Node.js, MongoDB, and UI/UX Design.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
@@ -25,7 +25,7 @@ I am a Full Stack Developer in Austin, TX. During my free time I enjoy working o
 
 
 - 🔭 I’m currently contributing to an open-source project that offers a user-friendly documenting and messaging software for behavioral residential care facilities |       https://ecare-residential.com/
-- 🌱 I’m currently learning GraphQL and Typescript.
+- 🌱 I’m currently learning Typescript and Software Development on the enterprise-level.
 - 👯 I’m looking to contribute to anything that involves Data Analytics, Social Media, Fintech, or Adtech.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
 
