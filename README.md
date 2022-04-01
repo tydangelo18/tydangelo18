@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-Software Developer in Austin, TX.
+Software Developer in Legal Tech from Austin, TX.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
@@ -25,7 +25,7 @@ Software Developer in Austin, TX.
 
 
 - 🔭 I’m currently contributing to an open-source project that offers a user-friendly documenting and messaging software for behavioral residential care facilities |       https://ecare-residential.com/
-- 🌱 I’m currently learning Typescript and Software Development on the enterprise-level.
+- 🌱 I’m currently learning Typescript and Legal Tech.
 - 👯 I’m looking to contribute to anything that involves Data Analytics, Social Media, Fintech, or Adtech.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
 
