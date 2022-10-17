@@ -25,7 +25,8 @@ Software Developer in Legal Tech from Austin, TX.
 
 
 - 🔭 I’m currently contributing to an open-source project that offers a user-friendly documenting and messaging software for behavioral residential care facilities |       https://ecare-residential.com/
-- 🌱 I’m currently learning Typescript and Legal Tech.
+- 🔭 I’m currently contributing to a project that allows users in need of vehicle related services to safely request assistance from providers.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to contribute to anything that involves Data Analytics, Social Media, Fintech, or Adtech.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
 
