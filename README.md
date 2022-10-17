@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-Software Developer in Legal Tech from Austin, TX.
+Software Engineer in Legal Tech from Austin, TX.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
 
