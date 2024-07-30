@@ -23,9 +23,9 @@ Software Engineer in Legal Tech from Austin, TX.
 <br />
 <hr />
 
-- 🔭 I’m currently contributing to a project that allows users in need of vehicle related services to safely request assistance from providers.
-- 🌱 I’m currently learning React Native & Java.
-- 👯 I’m looking to contribute to anything that involves Data Analytics, Social Media, Fintech, or Adtech.
+- 🔭 I’m currently contributing to a project that allows students to find and meet mentors from their respective university alumni network.
+- 🌱 I’m currently learning Machine Learning Ops.
+- 👯 I’m looking to contribute to anything that involves Data Analytics, Fintech, Adtech, & Machine Learning.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
 
 <br />
