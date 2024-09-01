@@ -25,7 +25,7 @@ Software Engineer in Legal Tech from Austin, TX.
 
 - 🔭 I’m currently contributing to a project that allows students to find and meet mentors from their respective university alumni network.
 - 🌱 I’m currently learning Machine Learning Ops.
-- 👯 I’m looking to contribute to anything that involves Data Analytics, Fintech, Adtech, & Machine Learning.
+- 👯 I’m looking to contribute to anything that involves Data Analytics, Fintech, Blockchain & Machine Learning.
 - :e-mail: tydangelo18@gmail.com | Let's get in touch!
 
 <br />
