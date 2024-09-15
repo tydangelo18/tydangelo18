@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-Software Engineer in Legal Tech from Austin, TX.
+Software Engineer in Austin, TX.
 
-:floppy_disk: Please check out my [**portfolio**](https://tydangelo.com).
+:floppy_disk: Please check out my [**portfolio**](https://tydangelo.dev).
 
 <br />
 
@@ -10,7 +10,9 @@ Software Engineer in Legal Tech from Austin, TX.
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactnative/reactnative.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,10 +25,9 @@ Software Engineer in Legal Tech from Austin, TX.
 <br />
 <hr />
 
-- 🔭 I’m currently contributing to a project that allows students to find and meet mentors from their respective university alumni network.
-- 🌱 I’m currently learning Machine Learning Ops.
-- 👯 I’m looking to contribute to anything that involves Data Analytics, Fintech, Blockchain & Machine Learning.
-- :e-mail: tydangelo18@gmail.com | Let's get in touch!
+- 🔭 I’m interested in Data Analytics, Statistics, Blockchain, DevOps & Machine Learning.
+- 🌱 I’m learning Blockchain and Statistics.
+- :e-mail: tydangelo18@gmail.com
 
 <br />
 
