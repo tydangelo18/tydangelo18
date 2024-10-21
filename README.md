@@ -28,7 +28,7 @@ Software Engineer in Austin, TX.
 <hr />
 
 - 🔭 I’m interested in Data Analytics, Blockchain, & DevOps.
-- 🌱 I’m learning Statistics & GoLang.
+- 🌱 I’m learning Statistics & Go.
 - :e-mail: tydangelo18@gmail.com
 
 <br />
