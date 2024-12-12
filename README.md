@@ -27,9 +27,10 @@ Software Engineer in Austin, TX.
 <br />
 <hr />
 
-- 🔭 I’m interested in Data Analytics, DevOps, and Mobile App Development.
+- 🔭 I’m interested in Data Analytics, DevOps, UI/UX Design, Mobile App Development, and contributing to open-source.
 - 🌱 I’m learning Statistics & GoLang.
-- :e-mail: tydangelo18@gmail.com
+- 👨‍💻 I'm currently building a social media app that allows foodies to share their food experiences and recipes.
+- 📧 tydangelo18@gmail.com let's connect!
 
 <br />
 
@@ -50,10 +51,6 @@ Software Engineer in Austin, TX.
 
 <br />
 
-
-<a href="https://twitter.com/tydangelo18">
-  <img align="left" alt="Ty D'Angelo | Twitter" width="30px" src="https://raw.githubusercontent.com/tydangelo18/tydangelo18/master/Twitter.svg"/>
-</a>
 
 <a href="https://www.linkedin.com/in/tydangelo18/">
   <img align="left" alt="Ty D'Angelo | LinkedIn" width="30px" src="https://raw.githubusercontent.com/tydangelo18/tydangelo18/master/Linkedin.png"/>
