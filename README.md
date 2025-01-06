@@ -28,7 +28,7 @@ Software Engineer in Austin, TX.
 <hr />
 
 - 🔭 I’m interested in data analytics, devOps, ui/ux design, mobile app development, contributing to open-source, and networks.
-- 🌱 I’m learning Golang & networks.
+- 🌱 I’m learning Golang & networking.
 - 👨‍💻 I'm currently building Shareplate, a social media app that allows foodies to share their food experiences and recipes.
 - 📧 tydangelo18@gmail.com let's connect!
 
