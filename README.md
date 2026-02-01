@@ -2,8 +2,6 @@
  
 Accountant in Austin, TX.
 
-:floppy_disk: Please check out my [**portfolio**](https://tydangelo.dev).
-
 <br />
 
 ## Skills and Experience
