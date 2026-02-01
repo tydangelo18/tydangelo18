@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ty D'Angelo
  
-Software Engineer in Austin, TX.
+Accountant in Austin, TX.
 
 :floppy_disk: Please check out my [**portfolio**](https://tydangelo.dev).
 
@@ -27,9 +27,6 @@ Software Engineer in Austin, TX.
 <br />
 <hr />
 
-- 🔭 I’m interested in data analytics, fintech, cloud computing, and networks.
-- 🌱 I’m learning Golang & networking.
-- 👨‍💻 I'm currently building Shareplate, a social media app that allows foodies to share their food experiences and recipes.
 - 📧 tydangelo18@gmail.com let's connect!
 
 <br />
